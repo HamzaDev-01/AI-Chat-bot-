@@ -1,0 +1,161 @@
+{
+  "greeting": [
+    "Assalam-o-Alaikum! 👋 Welcome to Hamza AI Chatbot. How can I help you?",
+    "Hello! 😊 What would you like to know about admissions, fees, or programs?",
+    "Hi there! I'm your university assistant. Ask me anything!"
+  ],
+
+  "admissions": [
+    "📋 Admissions for Fall 2026 are open! Apply at riphah.edu.pk. Need eligibility details?",
+    "Required documents: Matric certificate, FSc certificate, CNIC copy, and 2 passport photos.",
+    "Entry test (NTS or university test) is required. Deadline is usually July — apply early!",
+    "Merit list is announced within 2 weeks of test results. Limited seats, so hurry!"
+  ],
+
+  "fees": [
+    "💰 BS CS: PKR 120,000/sem | MS CS: PKR 95,000/sem | MBA: PKR 110,000/sem.",
+    "Pay via bank challan, JazzCash, EasyPaisa, or online banking. Need challan details?",
+    "⚠️ Late fee fine is PKR 500/day after the due date. Always pay before the deadline!",
+    "Installment plans may be available for financial hardship — contact the Accounts Office."
+  ],
+
+  "scholarships": [
+    "🎓 Merit scholarships need 3.5+ CGPA (top 10%). Need-based requires an income certificate.",
+    "HEC need-based scholarships, Zakat funds, and Ehsaas scholarships are all available.",
+    "Sports and Hafiz-e-Quran scholarships are also offered — ask the scholarship office.",
+    "Maintain 3.5+ CGPA every semester to keep renewing your merit scholarship."
+  ],
+
+  "location": [
+    "📍 Campus is at H-8/4 Islamabad, near Faizabad Interchange. Easily found on Google Maps!",
+    "Search 'Riphah International University Islamabad' on Google Maps for exact directions.",
+    "Nearest landmarks: Faizabad Metro Station (5 min walk), Jinnah Hospital, Kashmir Highway.",
+    "Accessible via CDA bus routes, Faizabad Metro, and university shuttle service."
+  ],
+
+  "contact": [
+    "📞 UAN: 051-111-747-424 | ✉️ admissions@riphah.edu.pk | Office: Mon–Sat, 9 AM–5 PM.",
+    "WhatsApp support is available on the UAN number during office hours.",
+    "Visit the Admission Block at the main entrance for walk-in inquiries.",
+    "For department queries: cs@riphah.edu.pk | Fee issues: accounts@riphah.edu.pk"
+  ],
+
+  "academics": [
+    "📚 BS CS is an 8-semester (4-year) program requiring 130+ credit hours.",
+    "⚠️ Minimum 75% attendance is mandatory — below this risks de-registration from courses.",
+    "Core subjects: Programming, Data Structures, Algorithms, Databases, AI, and Networks.",
+    "GPA below 2.0 triggers academic probation. You may repeat a course once to improve."
+  ],
+
+  "exams": [
+    "📅 Midterms: Week 8–9 | Finals: Week 17–18. Schedule is posted on the student portal.",
+    "Passing marks: 50% in finals, 40% in midterms (combined). GPA scale: A=4.0, B=3.0, C=2.0.",
+    "Makeup exams are for medical emergencies only — submit a doctor's certificate within 3 days.",
+    "Typical weightage: Quizzes 10% | Assignments 10% | Midterm 30% | Final Exam 50%."
+  ],
+
+  "facilities": [
+    "🏫 Campus has high-speed WiFi, modern computer labs, AI & research labs, and a digital library.",
+    "⚽ Sports: Cricket ground, basketball & volleyball courts, indoor gym, table tennis, and sports complex.",
+    "🏥 Medical room (doctor on duty), separate prayer halls for boys & girls, 24/7 CCTV, ample parking.",
+    "🖥️ Lab timings: Computer labs 8 AM–9 PM daily. AI & Research labs require advance booking.",
+    "🛋️ Student spaces: AC study lounges, group discussion rooms, cafeteria, and student affairs office."
+  ],
+
+  "societies": [
+    "🏆 Active societies: IEEE, Google DSC, ACM Chapter, Coding Club, Debating Society, Drama Club.",
+    "Societies run hackathons, tech seminars, coding competitions, and inter-university events.",
+    "To join, attend the society orientation in Week 1 of each semester — free to join!",
+    "Active participation earns co-curricular credit hours — great for your transcript!"
+  ],
+
+  "small_talk": [
+    "I'm Hamza AI — your smart university assistant! 🤖 Ask me about admissions, fees, or campus life.",
+    "I was built to help students navigate university life. What would you like to know?",
+    "I know everything about this university — programs, fees, hostel, and more. Just ask!"
+  ],
+
+  "hostel": [
+    "🏠 Separate fully-furnished hostels for boys and girls are available right on campus.",
+    "Hostel fee: ~PKR 25,000/month including 3 daily meals, WiFi, and 24/7 security.",
+    "Rooms have WiFi, attached washrooms, study tables, wardrobes, and CCTV surveillance.",
+    "Apply at the Student Affairs office before the semester starts — seats are limited!",
+    "Rules: Curfew at 10 PM, no outside guests, and mess timings must be followed."
+  ],
+
+  "transport": [
+    "🚌 University buses cover 10+ routes across Islamabad and Rawalpindi every day.",
+    "Transport fee: PKR 8,000/semester. Register at the Transport Office in Week 1.",
+    "⏰ Morning pickup: 7:30–8:00 AM | Evening drop: 5:00–6:00 PM from campus.",
+    "Key stops: Faizabad, Pir Wadhai, Bahria Town, DHA Phase 2, Saddar, and G-9 Markaz.",
+    "A shuttle runs between campus and Faizabad Metro Station every hour on weekdays."
+  ],
+
+  "library": [
+    "📚 Library hours: Monday–Saturday, 8 AM–9 PM. Closed on Sundays and public holidays.",
+    "Borrow up to 3 books for 14 days using your student ID. Renew online via portal.",
+    "Digital access: IEEE Xplore, Springer Link, HEC Digital Library, and 10,000+ e-books.",
+    "Late return fine: PKR 10/day per book. Renew before the due date to avoid charges.",
+    "Private study rooms available — book 24 hours in advance at the library front desk."
+  ],
+
+  "internship": [
+    "💼 Career Development Center (CDC) connects students with internships every semester.",
+    "Top recruiters: PTCL, Systems Ltd, NetSol, IBM, and 50+ local and global tech firms.",
+    "Internship offer letter from CDC is processed within 2 working days.",
+    "Final-year placement drives are held every spring semester — bring an updated CV!",
+    "Use the university's alumni LinkedIn group and job portal for extra opportunities."
+  ],
+
+  "programs": [
+    "🎓 Undergraduate: BS CS, BS SE, BS AI, BS Data Science, BBA, BS Pharmacy & more.",
+    "Postgraduate: MS CS, MS SE, MS Data Science, MS AI, MBA, and PhD in CS/Engineering.",
+    "PhD requires MS with 3.0+ CGPA. Research funding opportunities may be available.",
+    "Evening programs for professionals: BS CS, MS CS, MBA (weekdays 6–9 PM).",
+    "New 2026 programs: BS Cybersecurity 🔐 and MS Cloud Computing ☁️ — limited seats!"
+  ],
+
+  "faculty": [
+    "👨‍🏫 200+ faculty members — over 60% hold PhDs from top national & international universities.",
+    "Email format: firstname.lastname@riphah.edu.pk — full list on the university portal.",
+    "Faculty office hours are posted on department notice boards every semester.",
+    "Visiting industry professionals teach specialized electives with real-world expertise.",
+    "Student-to-faculty ratio is ~20:1, ensuring personalized mentorship and guidance."
+  ],
+
+  "graduation": [
+    "🎓 Complete 130+ credit hours with minimum 2.0 CGPA to graduate.",
+    "Final Year Project (FYP) is compulsory — runs across 7th and 8th semesters.",
+    "Convocation is held annually (usually April/May). Watch official announcements.",
+    "Request transcripts or degree copies from the Registrar Office — ready in 5–7 days.",
+    "HEC/MOFA degree attestation guidance available at the Registrar — bring original docs."
+  ],
+
+  "campus_life": [
+    "🎉 Vibrant campus life: Tech fests, sports galas, cultural shows, and coding marathons!",
+    "Fresh halal meals, snacks & beverages in the cafeteria at very affordable student prices.",
+    "Green, modern campus with open courtyards, cozy study lounges, and a positive community.",
+    "Annual highlights: Spring Festival 🌸, Coding Marathon 💻, Sports Gala 🏅, IEEE TechWeek.",
+    "Fully accessible: ramps, elevators, and special support for differently-abled students."
+  ],
+
+  "complaints": [
+    "📋 Academic issues (grades/attendance)? Start with Course Instructor, then Department Head.",
+    "Fee or financial complaints? Visit the Accounts Office or Student Affairs Office.",
+    "Submit formal complaints on the student portal — response within 7 working days.",
+    "The Grievance Cell handles all sensitive complaints with full confidentiality.",
+    "Still unresolved? Escalate to the Ombudsman: ombudsman@riphah.edu.pk"
+  ],
+
+  "farewell": [
+    "You're welcome! 😊 Best of luck with your studies — come back anytime!",
+    "Happy to help! Take care and have a wonderful day! 👋",
+    "Goodbye! Stay curious and keep learning! 🎓 See you next time."
+  ],
+
+  "fallback": [
+    "Sorry, I didn't quite get that. Try asking about admissions, fees, hostel, or location.",
+    "Hmm, I'm not sure about that. I can help with programs, exams, facilities, transport & more!",
+    "Can you clarify your question? I'm here to help with anything university-related!"
+  ]
+}
